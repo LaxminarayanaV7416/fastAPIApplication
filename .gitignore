@@ -1,0 +1,13 @@
+# vscode specific
+.vscode
+.DS_Store
+__pycache__
+
+# virtual env
+.venv
+
+
+#logs
+logs
+
+static/id_rsa
